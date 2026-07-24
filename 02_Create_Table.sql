@@ -1,3 +1,5 @@
+USE wisdomscompany;
+
 CREATE TABLE staff (
     staffID VARCHAR(10) PRIMARY KEY,
     firstName VARCHAR(20) NOT NULL,
